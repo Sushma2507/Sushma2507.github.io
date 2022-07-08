@@ -1,4 +1,6 @@
-# SUSHMA KODISWARAN
+# SUSHMA KODISWARAN  
+![sushma pink 2](https://user-images.githubusercontent.com/108567178/178055734-64108156-6e53-4b5d-9cf3-10cc9bde1ea5.jpeg)
+
 I am a highly organised, dedicated, diplomatic and hardworking biotechnologist, with a proven ability to improve working environments by adhering to all the rules and protocols.I possess strong interpersonal skills, demonstrating the utmost lab work ethics.I am also proficient in using various lab equipments and instruments properly and carefully.
 
 ## EDUCATIONAL QUALIFICATIONS 🎓
