@@ -31,6 +31,7 @@ I am a highly organised, dedicated, diplomatic and hardworking biotechnologist, 
 - 📍No 20, Rathwaththa Mawatha, Badulla
 - 📞0742513777
 
+theme: jekyll-theme-merlot 
 [HS22880864_Sushmakodiswaran.pdf](https://github.com/Sushma2507/Sushma2507.github.io/files/9074662/HS22880864_Sushmakodiswaran.pdf)
 
 
