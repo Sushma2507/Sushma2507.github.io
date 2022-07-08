@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+# SUSHMA KODISWARAN
+I am a highly organised, dedicated, diplomatic and hardworking biotechnologist, with a proven ability to improve working environments by adhering to all the rules and protocols.I possess strong interpersonal skills, demonstrating the utmost lab work ethics.I am also proficient in using various lab equipments and instruments properly and carefully.
 
-You can use the [editor on GitHub](https://github.com/Sushma2507/Sushma2507.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+## EDUCATIONAL QUALIFICATIONS 🎓
+- BSc hons biotechnology at SLIIT (2022-2025)
+- Completed A levels in Badulla central college (2018-2020)
+- Completed O levels in Oxford international college (2008-2017)
+ 
+## KEY SKILLS 
+1. Communication skills
+2. Analytical thinking skills
+3. Presentation skills
+4. Punctuality
+5. Team work
+6. Leadership qualities
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## EXTRACURRICULAR ACTIVITIES 🎯
+- Member of the chess club
+- Member of toast masters club
+- Volunteered in many social activities
 
-### Markdown
+## HOBBIES 
+- 🪴Gardening
+- 📚Reading books
+- 🎥Watching documentries
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## CONTACT DETAILS
+- 📩HS22880864@my.sliit.lk
+- 📍No 20, Rathwaththa Mawatha, Badulla
+- 📞0742513777
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Sushma2507/Sushma2507.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
